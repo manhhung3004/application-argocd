@@ -22,7 +22,7 @@ spec:
     spec:
       project: multi-env
       source:
-        repoURL: https://github.com/your-org/your-repo.git
+        repoURL: https://github.com/manhhung3004/application-argocd.git
         targetRevision: main
         path: service-b
         helm:

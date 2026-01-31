@@ -5,7 +5,7 @@ metadata:
   namespace: argocd
 spec:
   sourceRepos:
-  - 'http://git.younetmedia.com:10080/hungnm/hungnm-test.git'
+  - 'https://github.com/manhhung3004/application-argocd.git'
   destinations:
   - namespace: 'dev'
     server: 'https://kubernetes.default.svc'

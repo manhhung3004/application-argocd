@@ -22,7 +22,7 @@ spec:
     spec:
       project: multi-env
       source:
-        repoURL: ssh://git@git.younetmedia.com:10022/hungnm/hungnm-test.git
+        repoURL: https://github.com/manhhung3004/application-argocd.git
         targetRevision: main
         path: service-a
         helm:
